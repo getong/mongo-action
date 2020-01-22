@@ -1,5 +1,5 @@
-name: 'Setup mongo with password'
-description: 'Setup mongo with password'
+name: 'Setup mongodb with password'
+description: 'Setup mongodb with password'
 author: 'getong'
 branding:
   icon: 'database'
