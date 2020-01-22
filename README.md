@@ -9,7 +9,7 @@ See [action.yml](action.yml)
 Basic:
 ```yaml
 steps:
-- uses: getong/mongodb-action@v1
+- uses: getong/mongo-action@v1
   with:
     mongo version: '4.2-bionic'
     host port: 27017
